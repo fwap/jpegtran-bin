@@ -52,7 +52,7 @@
   ],
   "dependencies": {
     "bin-build": "^3.0.0",
-    "bin-wrapper": "^4.0.0"
+    "bin-wrapper": "https://github.com/fwap/bin-wrapper.git"
   },
   "devDependencies": {
     "ava": "^4.2.0",
